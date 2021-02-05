@@ -1,0 +1,7 @@
+README.md
+setup.py
+cdk/s3_migration_cluster.egg-info/PKG-INFO
+cdk/s3_migration_cluster.egg-info/SOURCES.txt
+cdk/s3_migration_cluster.egg-info/dependency_links.txt
+cdk/s3_migration_cluster.egg-info/requires.txt
+cdk/s3_migration_cluster.egg-info/top_level.txt
